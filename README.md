@@ -2,7 +2,7 @@
 # To-Do List Web Application
 
 
-(https://github.com/katrenmikhael/To-Do-List/assets/61967210/cbd4738a-f656-4f01-b016-1b8a73d16a6b)
+https://github.com/katrenmikhael/To-Do-List/assets/61967210/cbd4738a-f656-4f01-b016-1b8a73d16a6b
 
 
 This is a simple to-do list web application built using PHP and Laravel for the backend, and HTML, CSS, Bootstrap, and JavaScript for the frontend. It uses MySQL to manage the database and allows users to create an account, add, edit, delete, and change the status of tasks.
