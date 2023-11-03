@@ -31,10 +31,11 @@ Before you begin, ensure you have met the following requirements:
 Save to grepper
 
 ## Usage
-1- Register for an account on the application.
-2- Log in with your credentials.
-3- Create new tasks with a title and description.
-4- Edit, delete, or mark tasks as complete or incomplete.
-5- Log out when you're done.
+
+1. Register for an account on the application.
+2. Log in with your credentials.\
+3. Create new tasks with a title and description.
+4. Edit, delete, or mark tasks as complete or incomplete.
+5. Log out when you're done.
 
 
